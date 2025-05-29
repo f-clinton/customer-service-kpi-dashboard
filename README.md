@@ -29,7 +29,7 @@ This Excel dashboard project analyzes call center data to derive actionable busi
 
 ## 📸 Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot]([dashboard-screenshot.png](https://github.com/f-clinton/customer-service-kpi-dashboard/blob/main/Dashboard-Image.png))
 
 ---
 
