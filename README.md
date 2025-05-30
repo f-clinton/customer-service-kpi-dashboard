@@ -7,7 +7,7 @@ This Excel dashboard project analyzes call center data to derive actionable busi
 📊 Data Used
 The dataset is a simulated call center data file consisting of 1,000+ records for the year 2025. It includes both call-level data and customer demographic information, allowing for a 360-degree analysis of performance and satisfaction trends.
 
-- <a href="[https://github.com/f-clinton/customer-service-kpi-dashboard/blob/main/Dashboard-Image.png](https://github.com/f-clinton/customer-service-kpi-dashboard/blob/main/Call-Center-excel-project.xlsx)">Dashboard Image</a> 
+- <a href="https://github.com/f-clinton/customer-service-kpi-dashboard/blob/main/Call-Center-excel-project.xlsx">Dashboard Data</a> 
 
 ---
 
